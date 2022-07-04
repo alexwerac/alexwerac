@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front-end Developing
 - 🌱 I’m currently learning React/Redux
 - 📫 My Email: alexwerac228@gmail.com
-- 📫 My codewars profile: [alexwerac](https://www.codewars.com/users/alexwerac/stats)
+- 📫 My codewars account: [alexwerac](https://www.codewars.com/users/alexwerac/stats)
