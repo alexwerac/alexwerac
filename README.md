@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aleksei Kalivo
+- 👀 I’m interested in Front-end Developing
+- 🌱 I’m currently learning React/Redux
+- 📫 My Email: alexwerac228@gmail.com
+- 📫 My codewars profile: https://www.codewars.com/users/alexwerac/stats
